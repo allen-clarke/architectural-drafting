@@ -9,7 +9,7 @@ const Greetings = () => {
         backgroundImage: `linear-gradient(rgba(0,0,0,0.456),rgba(0,0,0,0.789)),url("${background}")`
       }}
     >
-      <h1 className="text-white font-black text-4xl pt-12 px-4">
+      <h1 className="text-white text-5xl pt-12 px-4 anton-sc">
         We Build Your Dream Place Come True
       </h1>
       <p className="font-black font-mono text-white pt-1 px-4 mb-6">
@@ -21,7 +21,7 @@ const Greetings = () => {
           to="contact-sec"
           smooth={true}
           duration={500}
-          className="font-black text-white rounded-2xl p-2 ml-4 border border-amber-50 backdrop-blur-2xl"
+          className="font-black font-sans text-white rounded-2xl p-2 ml-4 border border-amber-50 backdrop-blur-2xl"
         >
           Contact Us
         </Link>

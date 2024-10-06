@@ -21,7 +21,7 @@ const Contact = () => {
     >
       <div className="flex flex-col justify-around">
         <div className="flex justify-center">
-          <p className="text-white font-black text-2xl pb-2">
+          <p className="text-white font-black font-sans text-2xl pb-2">
             Have a dream project ?
           </p>
         </div>
